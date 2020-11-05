@@ -22,8 +22,10 @@ The best model was selected while looking for the least percentage error in a 20
 
 Summaries are presented at a midyear level to facilitate interpretation
 
-Check the summary deck included for more detail
-
 # The codes
 The codes are ordered by their usage in the whole process. The codes go from reviewing data, to estimating different 
 model parametrizations and optimizing on hyperparameters
+
+
+### Additional
+Check the summary deck included for more detail
