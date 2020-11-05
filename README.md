@@ -25,5 +25,5 @@ Summaries are presented at a midyear level to facilitate interpretation
 Check the summary deck included for more detail
 
 # The codes
-The codes are ordered by their usage in the whole process. The codes goe from reviewing data, to estimating different 
+The codes are ordered by their usage in the whole process. The codes go from reviewing data, to estimating different 
 model parametrizations and optimizing on hyperparameters
