@@ -1,5 +1,5 @@
 # GMV-Forcasting
-Look for an optimum additive and non linear component model to forecast GMV and explore the influence of marketing performance KPIs
+Look for an optimum additive and non-linear component model to forecast GMV and explore the influence of marketing performance KPIs
 
 # Summary
 The objective of this business case is to develop an accurate model for revenue forecasting 
